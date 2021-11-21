@@ -8,3 +8,12 @@ export const StyledHeader = styled.header`
     color: black;
   }
 `;
+
+export const Nav = styled.nav`
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  mix-blend-mode: 40px;
+`;
+
+export const Logo = styled.img``;
